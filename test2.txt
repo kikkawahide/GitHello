@@ -1,3 +1,5 @@
+「LOG　DATA」
+
 Microsoft Windows [Version 10.0.16299.431]
 (c) 2017 Microsoft Corporation. All rights reserved.
 
@@ -5,10 +7,10 @@ C:\Users\tcs>
 C:\Users\tcs>
 C:\Users\tcs>
 C:\Users\tcs>dir
- �h���C�u C �̃{�����[�� ���x��������܂���B
- �{�����[�� �V���A���ԍ��� 66DC-B395 �ł�
+ ドライブ C のボリューム ラベルがありません。
+ ボリューム シリアル番号は 66DC-B395 です
 
- C:\Users\tcs �̃f�B���N�g��
+ C:\Users\tcs のディレクトリ
 
 2018/05/21  08:37    <DIR>          .
 2018/05/21  08:37    <DIR>          ..
@@ -25,8 +27,8 @@ C:\Users\tcs>dir
 2018/05/11  10:33    <DIR>          ang2
 2018/05/11  10:00    <DIR>          angular
 2018/04/14  15:21    <DIR>          angular2_dart_todo
-2018/05/17  15:51                74 Angular�F ���̓t�H�[���Ɍ��؋@�\����������ɂ�
-�H�iform�^input�j - Build Insider.url
+2018/05/17  15:51                74 Angular： 入力フォームに検証機能を実装するには
+？（form／input） - Build Insider.url
 2018/02/27  10:29    <DIR>          app1
 2018/05/10  17:40    <DIR>          Contacts
 2018/05/18  17:48    <DIR>          Desktop
@@ -44,26 +46,26 @@ C:\Users\tcs>dir
 2018/05/10  17:40    <DIR>          Searches
 2018/05/16  10:24    <DIR>          Videos
 2018/03/29  09:49    <DIR>          _rpcs
-2018/02/06  07:41    <DIR>          ��̃A��  20180203�X�V
-2018/04/02  09:05            96,418 ��̃A��  20180203�X�V.zip
-2018/03/21  16:58    <DIR>          �V�����t�H���_�[
-               9 �̃t�@�C��             113,829 �o�C�g
-              27 �̃f�B���N�g��  571,647,119,360 �o�C�g�̋󂫗̈�
+2018/02/06  07:41    <DIR>          例のアレ  20180203更新
+2018/04/02  09:05            96,418 例のアレ  20180203更新.zip
+2018/03/21  16:58    <DIR>          新しいフォルダー
+               9 個のファイル             113,829 バイト
+              27 個のディレクトリ  571,647,119,360 バイトの空き領域
 
 C:\Users\tcs>md ang
 
 C:\Users\tcs>cd ang
 
 C:\Users\tcs\ang>dir
- �h���C�u C �̃{�����[�� ���x��������܂���B
- �{�����[�� �V���A���ԍ��� 66DC-B395 �ł�
+ ドライブ C のボリューム ラベルがありません。
+ ボリューム シリアル番号は 66DC-B395 です
 
- C:\Users\tcs\ang �̃f�B���N�g��
+ C:\Users\tcs\ang のディレクトリ
 
 2018/05/21  09:50    <DIR>          .
 2018/05/21  09:50    <DIR>          ..
-               0 �̃t�@�C��                   0 �o�C�g
-               2 �̃f�B���N�g��  571,646,627,840 �o�C�g�̋󂫗̈�
+               0 個のファイル                   0 バイト
+               2 個のディレクトリ  571,646,627,840 バイトの空き領域
 
 C:\Users\tcs\ang>
 C:\Users\tcs\ang>
@@ -74,15 +76,15 @@ C:\Users\tcs\ang>
 C:\Users\tcs\ang>cd atips
 
 C:\Users\tcs\ang\atips>dir
- �h���C�u C �̃{�����[�� ���x��������܂���B
- �{�����[�� �V���A���ԍ��� 66DC-B395 �ł�
+ ドライブ C のボリューム ラベルがありません。
+ ボリューム シリアル番号は 66DC-B395 です
 
- C:\Users\tcs\ang\atips �̃f�B���N�g��
+ C:\Users\tcs\ang\atips のディレクトリ
 
 2018/05/21  09:51    <DIR>          .
 2018/05/21  09:51    <DIR>          ..
-               0 �̃t�@�C��                   0 �o�C�g
-               2 �̃f�B���N�g��  571,645,325,312 �o�C�g�̋󂫗̈�
+               0 個のファイル                   0 バイト
+               2 個のディレクトリ  571,645,325,312 バイトの空き領域
 
 C:\Users\tcs\ang\atips>
 C:\Users\tcs\ang\atips>
@@ -94,12 +96,12 @@ C:\Users\tcs\ang\atips>git init
 Initialized empty Git repository in C:/Users/tcs/ang/atips/.git/
 
 C:\Users\tcs\ang\atips>touch index.html
-'touch' �́A�����R�}���h�܂��͊O���R�}���h�A
-����\�ȃv���O�����܂��̓o�b�` �t�@�C���Ƃ��ĔF������Ă��܂���B
+'touch' は、内部コマンドまたは外部コマンド、
+操作可能なプログラムまたはバッチ ファイルとして認識されていません。
 
 C:\Users\tcs\ang\atips>touch index.html
-'touch' �́A�����R�}���h�܂��͊O���R�}���h�A
-����\�ȃv���O�����܂��̓o�b�` �t�@�C���Ƃ��ĔF������Ă��܂���B
+'touch' は、内部コマンドまたは外部コマンド、
+操作可能なプログラムまたはバッチ ファイルとして認識されていません。
 
 C:\Users\tcs\ang\atips>notepad index.html
 
@@ -229,26 +231,26 @@ C:\Users\tcs\ang\atips>cd ..
 C:\Users\tcs\ang>cd ..
 
 C:\Users\tcs>cd github
-�w�肳�ꂽ�p�X��������܂���B
+指定されたパスが見つかりません。
 
 C:\Users\tcs>dir G*.*
- �h���C�u C �̃{�����[�� ���x��������܂���B
- �{�����[�� �V���A���ԍ��� 66DC-B395 �ł�
+ ドライブ C のボリューム ラベルがありません。
+ ボリューム シリアル番号は 66DC-B395 です
 
- C:\Users\tcs �̃f�B���N�g��
+ C:\Users\tcs のディレクトリ
 
 2018/05/22  09:02               184 .gitconfig
-               1 �̃t�@�C��                 184 �o�C�g
-               0 �̃f�B���N�g��  571,187,503,104 �o�C�g�̋󂫗̈�
+               1 個のファイル                 184 バイト
+               0 個のディレクトリ  571,187,503,104 バイトの空き領域
 
 C:\Users\tcs>
 C:\Users\tcs>
 C:\Users\tcs>
 C:\Users\tcs>dir Documents
- �h���C�u C �̃{�����[�� ���x��������܂���B
- �{�����[�� �V���A���ԍ��� 66DC-B395 �ł�
+ ドライブ C のボリューム ラベルがありません。
+ ボリューム シリアル番号は 66DC-B395 です
 
- C:\Users\tcs\Documents �̃f�B���N�g��
+ C:\Users\tcs\Documents のディレクトリ
 
 2018/05/21  09:08    <DIR>          .
 2018/05/21  09:08    <DIR>          ..
@@ -260,7 +262,7 @@ C:\Users\tcs>dir Documents
 2018/01/31  10:06            37,757 ANGULAR-MEMO.docx
 2017/12/31  09:41    <DIR>          Autodesk Application Manager
 2018/02/15  08:18            10,505 Book17.xlsx
-2018/02/13  15:26             7,815 Book2 (�����ۑ��ς�).xlsx
+2018/02/13  15:26             7,815 Book2 (自動保存済み).xlsx
 2018/04/07  11:51        12,271,782 BUHINA.xlsx
 2018/01/31  15:38               383 Capture_20180131153751_mp4.mrk
 2018/01/31  15:44         3,224,493 Capture_20180131154143.mp4
@@ -270,7 +272,7 @@ C:\Users\tcs>dir Documents
 2018/05/09  14:46    <DIR>          CyberLink
 2018/01/15  16:41    <DIR>          data
 2018/04/12  08:58        10,433,823 DATA.xlsx
-2018/02/22  15:58            52,027 DAW�\�t�g.docx
+2018/02/22  15:58            52,027 DAWソフト.docx
 2018/04/10  17:36    <DIR>          DOC
 2018/03/06  09:20    <DIR>          DOC-TC
 2018/03/10  15:33            12,663 FDD.docx
@@ -279,13 +281,13 @@ C:\Users\tcs>dir Documents
 2018/01/31  13:02           627,326 IMG_20180131_0001.pdf
 2018/01/31  13:03           629,254 IMG_20180131_0002.pdf
 2018/01/31  13:08           626,530 IMG_20180131_0003.pdf
-2018/03/30  09:13            39,759 MPC2801PC��SCAN�����f�[�^���ۑ��ł��Ȃ��Ȃ���.d
+2018/03/30  09:13            39,759 MPC2801PCにSCANしたデータが保存できなくなった.d
 ocx
 2018/01/19  11:59    <DIR>          NewBlueFX
 2017/12/31  14:38    <DIR>          oCam
-2018/01/03  13:01    <DIR>          Office �̃J�X�^�� �e���v���[�g
-2018/04/07  09:54    <DIR>          OneNote �m�[�g�u�b�N
-2018/03/27  13:03    <DIR>          Outlook �t�@�C��
+2018/01/03  13:01    <DIR>          Office のカスタム テンプレート
+2018/04/07  09:54    <DIR>          OneNote ノートブック
+2018/03/27  13:03    <DIR>          Outlook ファイル
 2018/01/16  09:00    <DIR>          pdf
 2018/01/15  15:26    <DIR>          PGM
 2018/03/14  14:42               115 plot.log
@@ -302,12 +304,12 @@ ocx
 2013/07/24  12:46    <DIR>          vb
 2018/01/31  16:41         7,511,684 VBA_SAMPLE4.mp4
 2018/05/08  13:35    <DIR>          Visual Studio 2015
-2018/04/07  16:51            68,240 ������.docx
-2018/04/20  16:38           667,648 �f�[�^�x�[�X1.accdb
-2018/04/05  14:05            12,163 �Emp4�����11������10�b�Ԑ؂�o����.docx
-2018/05/02  21:14            30,890 ����1.docx
-              28 �̃t�@�C��          36,613,492 �o�C�g
-              27 �̃f�B���N�g��  571,187,503,104 �o�C�g�̋󂫗̈�
+2018/04/07  16:51            68,240 しこく.docx
+2018/04/20  16:38           667,648 データベース1.accdb
+2018/04/05  14:05            12,163 ・mp4動画の11分から10秒間切り出して.docx
+2018/05/02  21:14            30,890 文書1.docx
+              28 個のファイル          36,613,492 バイト
+              27 個のディレクトリ  571,187,503,104 バイトの空き領域
 
 C:\Users\tcs>cd Documents
 
@@ -318,16 +320,16 @@ C:\Users\tcs\Documents\GitHub>cd GitHello
 C:\Users\tcs\Documents\GitHub\GitHello>
 C:\Users\tcs\Documents\GitHub\GitHello>
 C:\Users\tcs\Documents\GitHub\GitHello>dir
- �h���C�u C �̃{�����[�� ���x��������܂���B
- �{�����[�� �V���A���ԍ��� 66DC-B395 �ł�
+ ドライブ C のボリューム ラベルがありません。
+ ボリューム シリアル番号は 66DC-B395 です
 
- C:\Users\tcs\Documents\GitHub\GitHello �̃f�B���N�g��
+ C:\Users\tcs\Documents\GitHub\GitHello のディレクトリ
 
 2018/05/22  10:01    <DIR>          .
 2018/05/22  10:01    <DIR>          ..
 2018/05/22  10:01               333 test.txt
-               1 �̃t�@�C��                 333 �o�C�g
-               2 �̃f�B���N�g��  571,187,503,104 �o�C�g�̋󂫗̈�
+               1 個のファイル                 333 バイト
+               2 個のディレクトリ  571,187,503,104 バイトの空き領域
 
 C:\Users\tcs\Documents\GitHub\GitHello>git status
 On branch master
@@ -400,16 +402,16 @@ C:\Users\tcs\Documents\GitHub\GitHello>git log
 fatal: your current branch 'master' does not have any commits yet
 
 C:\Users\tcs\Documents\GitHub\GitHello>dir
- �h���C�u C �̃{�����[�� ���x��������܂���B
- �{�����[�� �V���A���ԍ��� 66DC-B395 �ł�
+ ドライブ C のボリューム ラベルがありません。
+ ボリューム シリアル番号は 66DC-B395 です
 
- C:\Users\tcs\Documents\GitHub\GitHello �̃f�B���N�g��
+ C:\Users\tcs\Documents\GitHub\GitHello のディレクトリ
 
 2018/05/22  10:01    <DIR>          .
 2018/05/22  10:01    <DIR>          ..
 2018/05/22  10:01               333 test.txt
-               1 �̃t�@�C��                 333 �o�C�g
-               2 �̃f�B���N�g��  571,154,382,848 �o�C�g�̋󂫗̈�
+               1 個のファイル                 333 バイト
+               2 個のディレクトリ  571,154,382,848 バイトの空き領域
 
 C:\Users\tcs\Documents\GitHub\GitHello>git add *
 
