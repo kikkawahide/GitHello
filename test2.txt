@@ -1,0 +1,481 @@
+Microsoft Windows [Version 10.0.16299.431]
+(c) 2017 Microsoft Corporation. All rights reserved.
+
+C:\Users\tcs>
+C:\Users\tcs>
+C:\Users\tcs>
+C:\Users\tcs>dir
+ ドライブ C のボリューム ラベルがありません。
+ ボリューム シリアル番号は 66DC-B395 です
+
+ C:\Users\tcs のディレクトリ
+
+2018/05/21  08:37    <DIR>          .
+2018/05/21  08:37    <DIR>          ..
+2018/02/20  17:55             1,029 .bash_history
+2017/12/31  15:58    <DIR>          .dnx
+2018/05/21  08:37               184 .gitconfig
+2018/05/11  15:42    <DIR>          .node-gyp
+2018/02/26  13:24                59 .node_repl_history
+2018/02/27  09:55                42 .npmrc
+2018/01/31  15:28    <DIR>          .vscode
+2018/04/23  09:31               121 .yarnrc
+2018/05/10  17:40    <DIR>          3D Objects
+2018/05/18  14:21    <DIR>          a
+2018/05/11  10:33    <DIR>          ang2
+2018/05/11  10:00    <DIR>          angular
+2018/04/14  15:21    <DIR>          angular2_dart_todo
+2018/05/17  15:51                74 Angular： 入力フォームに検証機能を実装するには
+？（form／input） - Build Insider.url
+2018/02/27  10:29    <DIR>          app1
+2018/05/10  17:40    <DIR>          Contacts
+2018/05/18  17:48    <DIR>          Desktop
+2018/05/21  09:08    <DIR>          Documents
+2018/05/21  09:39    <DIR>          Downloads
+2018/05/10  17:40    <DIR>          Favorites
+2018/05/10  17:40    <DIR>          Links
+2018/02/03  13:02                30 main.js
+2018/05/10  17:40    <DIR>          Music
+2018/04/23  08:47    <DIR>          node_modules
+2018/04/29  13:51    <DIR>          OneDrive
+2018/05/14  16:14    <DIR>          Pictures
+2018/02/06  11:55            15,872 rei.xlsx
+2018/05/10  17:40    <DIR>          Saved Games
+2018/05/10  17:40    <DIR>          Searches
+2018/05/16  10:24    <DIR>          Videos
+2018/03/29  09:49    <DIR>          _rpcs
+2018/02/06  07:41    <DIR>          例のアレ  20180203更新
+2018/04/02  09:05            96,418 例のアレ  20180203更新.zip
+2018/03/21  16:58    <DIR>          新しいフォルダー
+               9 個のファイル             113,829 バイト
+              27 個のディレクトリ  571,647,119,360 バイトの空き領域
+
+C:\Users\tcs>md ang
+
+C:\Users\tcs>cd ang
+
+C:\Users\tcs\ang>dir
+ ドライブ C のボリューム ラベルがありません。
+ ボリューム シリアル番号は 66DC-B395 です
+
+ C:\Users\tcs\ang のディレクトリ
+
+2018/05/21  09:50    <DIR>          .
+2018/05/21  09:50    <DIR>          ..
+               0 個のファイル                   0 バイト
+               2 個のディレクトリ  571,646,627,840 バイトの空き領域
+
+C:\Users\tcs\ang>
+C:\Users\tcs\ang>
+C:\Users\tcs\ang>mkdir atips
+
+C:\Users\tcs\ang>
+C:\Users\tcs\ang>
+C:\Users\tcs\ang>cd atips
+
+C:\Users\tcs\ang\atips>dir
+ ドライブ C のボリューム ラベルがありません。
+ ボリューム シリアル番号は 66DC-B395 です
+
+ C:\Users\tcs\ang\atips のディレクトリ
+
+2018/05/21  09:51    <DIR>          .
+2018/05/21  09:51    <DIR>          ..
+               0 個のファイル                   0 バイト
+               2 個のディレクトリ  571,645,325,312 バイトの空き領域
+
+C:\Users\tcs\ang\atips>
+C:\Users\tcs\ang\atips>
+C:\Users\tcs\ang\atips>git config --global user.name"kikkawahide"
+
+C:\Users\tcs\ang\atips>git config --global user.email"kikkawa9512@gmail.com"
+
+C:\Users\tcs\ang\atips>git init
+Initialized empty Git repository in C:/Users/tcs/ang/atips/.git/
+
+C:\Users\tcs\ang\atips>touch index.html
+'touch' は、内部コマンドまたは外部コマンド、
+操作可能なプログラムまたはバッチ ファイルとして認識されていません。
+
+C:\Users\tcs\ang\atips>touch index.html
+'touch' は、内部コマンドまたは外部コマンド、
+操作可能なプログラムまたはバッチ ファイルとして認識されていません。
+
+C:\Users\tcs\ang\atips>notepad index.html
+
+C:\Users\tcs\ang\atips>git add index.html
+
+C:\Users\tcs\ang\atips>git commit -m "Create index.html"
+[master (root-commit) 0830117] Create index.html
+ 1 file changed, 0 insertions(+), 0 deletions(-)
+ create mode 100644 index.html
+
+C:\Users\tcs\ang\atips>git remote add origin https://github.com/kikkawahide/atips.g
+it
+
+C:\Users\tcs\ang\atips>git push -u origin master
+Counting objects: 3, done.
+Writing objects: 100% (3/3), 218 bytes | 72.00 KiB/s, done.
+Total 3 (delta 0), reused 0 (delta 0)
+To https://github.com/kikkawahide/atips.git
+ * [new branch]      master -> master
+Branch 'master' set up to track remote branch 'master' from 'origin'.
+
+C:\Users\tcs\ang\atips>git add index.html
+
+C:\Users\tcs\ang\atips>git commit -m "Create index.html"
+On branch master
+Your branch is up to date with 'origin/master'.
+
+Untracked files:
+        ANGULAR-MEMO.docx
+
+nothing added to commit but untracked files present
+
+C:\Users\tcs\ang\atips>git remote add origin https://github.com/kikkawahide/atips.g
+it
+fatal: remote origin already exists.
+
+C:\Users\tcs\ang\atips>git commit -m "Create2 index.html"
+On branch master
+Your branch is up to date with 'origin/master'.
+
+Untracked files:
+        ANGULAR-MEMO.docx
+
+nothing added to commit but untracked files present
+
+C:\Users\tcs\ang\atips>git add AN*.docx
+
+C:\Users\tcs\ang\atips>git commit -m "Create2 index.html"
+[master 6a10135] Create2 index.html
+ 1 file changed, 0 insertions(+), 0 deletions(-)
+ create mode 100644 ANGULAR-MEMO.docx
+
+C:\Users\tcs\ang\atips>git remote add origin https://github.com/kikkawahide/atips.g
+it
+fatal: remote origin already exists.
+
+C:\Users\tcs\ang\atips>git remote add origin2 https://github.com/kikkawahide/atips.
+git
+
+C:\Users\tcs\ang\atips>git commit
+On branch master
+Your branch is ahead of 'origin/master' by 1 commit.
+  (use "git push" to publish your local commits)
+
+nothing to commit, working tree clean
+
+C:\Users\tcs\ang\atips>git add AN*.docx
+
+C:\Users\tcs\ang\atips>git commit -m "Create2 index.html"
+On branch master
+Your branch is ahead of 'origin/master' by 1 commit.
+  (use "git push" to publish your local commits)
+
+nothing to commit, working tree clean
+
+C:\Users\tcs\ang\atips>git push
+Counting objects: 3, done.
+Delta compression using up to 4 threads.
+Compressing objects: 100% (3/3), done.
+Writing objects: 100% (3/3), 663.09 KiB | 5.97 MiB/s, done.
+Total 3 (delta 0), reused 0 (delta 0)
+To https://github.com/kikkawahide/atips.git
+   0830117..6a10135  master -> master
+
+C:\Users\tcs\ang\atips>git add AN*.docx
+
+C:\Users\tcs\ang\atips>git commit
+Aborting commit due to empty commit message.
+
+C:\Users\tcs\ang\atips>git commit -m "Create2 index.html"
+[master 1d6da3d] Create2 index.html
+ 1 file changed, 0 insertions(+), 0 deletions(-)
+
+C:\Users\tcs\ang\atips>git push
+Counting objects: 3, done.
+Delta compression using up to 4 threads.
+Compressing objects: 100% (3/3), done.
+Writing objects: 100% (3/3), 10.24 KiB | 582.00 KiB/s, done.
+Total 3 (delta 1), reused 0 (delta 0)
+remote: Resolving deltas: 100% (1/1), completed with 1 local object.
+To https://github.com/kikkawahide/atips.git
+   6a10135..1d6da3d  master -> master
+
+C:\Users\tcs\ang\atips>
+
+
+
+git add
+Nothing specified, nothing added.
+Maybe you wanted to say 'git add .'?
+
+C:\Users\tcs\ang\atips>
+C:\Users\tcs\ang\atips>
+C:\Users\tcs\ang\atips>
+C:\Users\tcs\ang\atips>
+C:\Users\tcs\ang\atips>
+C:\Users\tcs\ang\atips>
+C:\Users\tcs\ang\atips>
+C:\Users\tcs\ang\atips>
+C:\Users\tcs\ang\atips>
+C:\Users\tcs\ang\atips>
+C:\Users\tcs\ang\atips>
+C:\Users\tcs\ang\atips>
+C:\Users\tcs\ang\atips>
+C:\Users\tcs\ang\atips>cd ..
+
+C:\Users\tcs\ang>cd ..
+
+C:\Users\tcs>cd github
+指定されたパスが見つかりません。
+
+C:\Users\tcs>dir G*.*
+ ドライブ C のボリューム ラベルがありません。
+ ボリューム シリアル番号は 66DC-B395 です
+
+ C:\Users\tcs のディレクトリ
+
+2018/05/22  09:02               184 .gitconfig
+               1 個のファイル                 184 バイト
+               0 個のディレクトリ  571,187,503,104 バイトの空き領域
+
+C:\Users\tcs>
+C:\Users\tcs>
+C:\Users\tcs>
+C:\Users\tcs>dir Documents
+ ドライブ C のボリューム ラベルがありません。
+ ボリューム シリアル番号は 66DC-B395 です
+
+ C:\Users\tcs\Documents のディレクトリ
+
+2018/05/21  09:08    <DIR>          .
+2018/05/21  09:08    <DIR>          ..
+2018/02/19  15:07             1,734 25767830
+2018/03/01  09:11           217,600 aaa.xls
+2018/01/03  14:56            14,341 adobe-pass.xlsx
+2018/04/05  14:28    <DIR>          AdobeStockPhotos
+2018/05/22  08:27    <DIR>          ANG
+2018/01/31  10:06            37,757 ANGULAR-MEMO.docx
+2017/12/31  09:41    <DIR>          Autodesk Application Manager
+2018/02/15  08:18            10,505 Book17.xlsx
+2018/02/13  15:26             7,815 Book2 (自動保存済み).xlsx
+2018/04/07  11:51        12,271,782 BUHINA.xlsx
+2018/01/31  15:38               383 Capture_20180131153751_mp4.mrk
+2018/01/31  15:44         3,224,493 Capture_20180131154143.mp4
+2018/01/31  15:44               172 Capture_20180131154143_mp4.mrk
+2018/01/31  16:41               381 Capture_20180131164103_mp4.mrk
+2018/04/19  16:52            13,665 Command.docx
+2018/05/09  14:46    <DIR>          CyberLink
+2018/01/15  16:41    <DIR>          data
+2018/04/12  08:58        10,433,823 DATA.xlsx
+2018/02/22  15:58            52,027 DAWソフト.docx
+2018/04/10  17:36    <DIR>          DOC
+2018/03/06  09:20    <DIR>          DOC-TC
+2018/03/10  15:33            12,663 FDD.docx
+2018/05/22  09:11    <DIR>          GitHub
+2018/01/15  13:39    <DIR>          hp0
+2018/01/31  13:02           627,326 IMG_20180131_0001.pdf
+2018/01/31  13:03           629,254 IMG_20180131_0002.pdf
+2018/01/31  13:08           626,530 IMG_20180131_0003.pdf
+2018/03/30  09:13            39,759 MPC2801PCにSCANしたデータが保存できなくなった.d
+ocx
+2018/01/19  11:59    <DIR>          NewBlueFX
+2017/12/31  14:38    <DIR>          oCam
+2018/01/03  13:01    <DIR>          Office のカスタム テンプレート
+2018/04/07  09:54    <DIR>          OneNote ノートブック
+2018/03/27  13:03    <DIR>          Outlook ファイル
+2018/01/16  09:00    <DIR>          pdf
+2018/01/15  15:26    <DIR>          PGM
+2018/03/14  14:42               115 plot.log
+2018/03/02  15:25            26,137 PLT_TBL.xlsx
+2018/02/27  16:16    <DIR>          sample
+2017/12/31  14:36    <DIR>          sb
+2018/01/15  15:27    <DIR>          TECH
+2017/12/31  14:37    <DIR>          TEMP-WEB
+2018/05/10  07:43    <DIR>          test
+2018/03/14  14:46            36,585 TESTA1.bak
+2018/03/21  17:06            38,020 TESTA1.dwg
+2018/01/03  14:44    <DIR>          tour-of-heroes-master
+2018/01/19  16:07    <DIR>          Updater
+2013/07/24  12:46    <DIR>          vb
+2018/01/31  16:41         7,511,684 VBA_SAMPLE4.mp4
+2018/05/08  13:35    <DIR>          Visual Studio 2015
+2018/04/07  16:51            68,240 しこく.docx
+2018/04/20  16:38           667,648 データベース1.accdb
+2018/04/05  14:05            12,163 ・mp4動画の11分から10秒間切り出して.docx
+2018/05/02  21:14            30,890 文書1.docx
+              28 個のファイル          36,613,492 バイト
+              27 個のディレクトリ  571,187,503,104 バイトの空き領域
+
+C:\Users\tcs>cd Documents
+
+C:\Users\tcs\Documents>cd GitHub
+
+C:\Users\tcs\Documents\GitHub>cd GitHello
+
+C:\Users\tcs\Documents\GitHub\GitHello>
+C:\Users\tcs\Documents\GitHub\GitHello>
+C:\Users\tcs\Documents\GitHub\GitHello>dir
+ ドライブ C のボリューム ラベルがありません。
+ ボリューム シリアル番号は 66DC-B395 です
+
+ C:\Users\tcs\Documents\GitHub\GitHello のディレクトリ
+
+2018/05/22  10:01    <DIR>          .
+2018/05/22  10:01    <DIR>          ..
+2018/05/22  10:01               333 test.txt
+               1 個のファイル                 333 バイト
+               2 個のディレクトリ  571,187,503,104 バイトの空き領域
+
+C:\Users\tcs\Documents\GitHub\GitHello>git status
+On branch master
+
+No commits yet
+
+Untracked files:
+  (use "git add <file>..." to include in what will be committed)
+
+        test.txt
+
+nothing added to commit but untracked files present (use "git add" to track)
+
+C:\Users\tcs\Documents\GitHub\GitHello>
+C:\Users\tcs\Documents\GitHub\GitHello>
+C:\Users\tcs\Documents\GitHub\GitHello>git add test.txt
+warning: CRLF will be replaced by LF in test.txt.
+The file will have its original line endings in your working directory.
+
+C:\Users\tcs\Documents\GitHub\GitHello>git status
+On branch master
+
+No commits yet
+
+Changes to be committed:
+  (use "git rm --cached <file>..." to unstage)
+
+        new file:   test.txt
+
+
+C:\Users\tcs\Documents\GitHub\GitHello>git commit test.txt
+warning: CRLF will be replaced by LF in test.txt.
+The file will have its original line endings in your working directory.
+Aborting commit due to empty commit message.
+
+C:\Users\tcs\Documents\GitHub\GitHello>git status
+On branch master
+
+No commits yet
+
+Changes to be committed:
+  (use "git rm --cached <file>..." to unstage)
+
+        new file:   test.txt
+
+
+C:\Users\tcs\Documents\GitHub\GitHello>git commit
+Aborting commit due to empty commit message.
+
+C:\Users\tcs\Documents\GitHub\GitHello>git status
+On branch master
+
+No commits yet
+
+Changes to be committed:
+  (use "git rm --cached <file>..." to unstage)
+
+        new file:   test.txt
+
+
+C:\Users\tcs\Documents\GitHub\GitHello>git commit
+Aborting commit due to empty commit message.
+
+C:\Users\tcs\Documents\GitHub\GitHello>git log -1
+fatal: your current branch 'master' does not have any commits yet
+
+C:\Users\tcs\Documents\GitHub\GitHello>
+C:\Users\tcs\Documents\GitHub\GitHello>
+C:\Users\tcs\Documents\GitHub\GitHello>git log
+fatal: your current branch 'master' does not have any commits yet
+
+C:\Users\tcs\Documents\GitHub\GitHello>dir
+ ドライブ C のボリューム ラベルがありません。
+ ボリューム シリアル番号は 66DC-B395 です
+
+ C:\Users\tcs\Documents\GitHub\GitHello のディレクトリ
+
+2018/05/22  10:01    <DIR>          .
+2018/05/22  10:01    <DIR>          ..
+2018/05/22  10:01               333 test.txt
+               1 個のファイル                 333 バイト
+               2 個のディレクトリ  571,154,382,848 バイトの空き領域
+
+C:\Users\tcs\Documents\GitHub\GitHello>git add *
+
+C:\Users\tcs\Documents\GitHub\GitHello>git commit
+[master (root-commit) 505d3b1] commit message
+ 1 file changed, 9 insertions(+)
+ create mode 100644 test.txt
+
+C:\Users\tcs\Documents\GitHub\GitHello>git status
+On branch master
+Your branch is based on 'origin/master', but the upstream is gone.
+  (use "git branch --unset-upstream" to fixup)
+
+nothing to commit, working tree clean
+
+C:\Users\tcs\Documents\GitHub\GitHello>git log  -1
+commit 505d3b18286eda9818e540d1d022a6af9bba9d1d (HEAD -> master)
+Author: kikkawahide <kikkawa9512@gmail.com>
+Date:   Tue May 22 10:34:07 2018 +0900
+
+    commit message
+
+C:\Users\tcs\Documents\GitHub\GitHello>git fetch
+remote: Counting objects: 3, done.
+remote: Compressing objects: 100% (2/2), done.
+remote: Total 3 (delta 1), reused 0 (delta 0), pack-reused 0
+Unpacking objects: 100% (3/3), done.
+From https://github.com/kikkawahide/GitHello
+   505d3b1..119c976  master     -> origin/master
+
+C:\Users\tcs\Documents\GitHub\GitHello>git diff HEAD..FETCH_HEAD
+diff --git a/test.txt b/test.txt
+index 76015c1..9d4d6e0 100644
+--- a/test.txt
++++ b/test.txt
+@@ -1,9 +1,10 @@
+ echo "# GitHello" >> README.md
+ git init
++echo "test test "
+ git add README.md
+ git commit -m "first commit"
+ git remote add origin https://github.com/kikkawahide/GitHello.git
+ git push -u origin master
+-<81>cor push an existing repository from the command line
++<C2><81>cor push an existing repository from the command line
+ git remote add origin https://github.com/kikkawahide/GitHello.git
+-git push -u origin master
+\ No newline at end of file
++git push -u origin master
+
+C:\Users\tcs\Documents\GitHub\GitHello>git merge FETCH_HEAD
+Updating 505d3b1..119c976
+Fast-forward
+ test.txt | 5 +++--
+ 1 file changed, 3 insertions(+), 2 deletions(-)
+
+C:\Users\tcs\Documents\GitHub\GitHello>git pull
+remote: Counting objects: 3, done.
+remote: Compressing objects: 100% (2/2), done.
+remote: Total 3 (delta 1), reused 0 (delta 0), pack-reused 0
+Unpacking objects: 100% (3/3), done.
+From https://github.com/kikkawahide/GitHello
+   119c976..7a80557  master     -> origin/master
+Updating 119c976..7a80557
+Fast-forward
+ test.txt | 1 +
+ 1 file changed, 1 insertion(+)
+
+C:\Users\tcs\Documents\GitHub\GitHello>
